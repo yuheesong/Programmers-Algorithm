@@ -1,4 +1,4 @@
-ef solution(num):
+def solution(num):
     answer = 0
     if num==1:
         return 0
