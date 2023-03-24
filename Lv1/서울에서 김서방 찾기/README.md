@@ -5,4 +5,4 @@
 ## index 함수  
 리스트에서 원하는 값의 인덱스를 반환해주는 함수  
 <br/><br/>
-따라서, return "김서방은 {}에 있다".format(seoul.index('Kim'))로  방법도 있다!!
+*따라서, return "김서방은 {}에 있다".format(seoul.index('Kim'))로  방법도 있다!!*
