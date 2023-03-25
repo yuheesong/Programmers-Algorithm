@@ -1,5 +1,5 @@
 # 알게된점  
-##sort와 sorted 함수의 차이  
+## sort vs sorted 함수 비교  
 <br/>
 sort는 리스트의 원본을 수정하며 "리스트.sorted()"의 형식으로 사용한다.  
 <br/>
