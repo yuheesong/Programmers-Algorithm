@@ -3,6 +3,7 @@
 동일 개수로 이루어진 자료형을 묶어주는 함수  
 <br/>
 예시:  
+<br/>
 for absolute,sign in zip(absolutes,signs):  
         if sign:  
             answer+=absolute  
