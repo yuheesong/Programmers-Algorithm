@@ -6,6 +6,5 @@
 <br/>
 
 ## sort와 sorted의 사용법  
-<br/>
-배열이름.sort() 
+배열이름.sort()   
 새로운배열이름=sorted(배열이름)
