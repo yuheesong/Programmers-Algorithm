@@ -3,5 +3,5 @@
 <br/>
 zip()함수를 사용한다면 다음과 같이 쓰이게 된다.  
 <br/>
-for i,j in zip(a,b):
+for i,j in zip(a,b):  
   answer+=i*j
